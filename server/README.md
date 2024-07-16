@@ -3,6 +3,7 @@
 After installing dependencies, run:
 ```sh
 npx prisma migrate dev --name init
+```
 
 This will show you the dev.db file in the prisma folder.
 
